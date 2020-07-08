@@ -1,4 +1,4 @@
-# [Vadym Haimanovskyi](https://github.com/vgaimanovskyi/vgaimanovskyi.github.io)
+# [Vadym Haimanovskyi](https://github.com/vgaimanovskyi/BeetrootAcademy)
 ### My Beetroot Academy homeworks:
 
 [1 lesson](https://vgaimanovskyi.github.io/01-Homework/summary_ru.html) (summary)  
